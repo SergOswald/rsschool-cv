@@ -4,7 +4,6 @@ html {
 }
 
 body {
-    /*max-width: 1440px;*/
     padding: 0;
     margin: 0;
     background-color: aquamarine; 
@@ -38,9 +37,9 @@ body {
 }
 
 .main a:hover, .header a:hover, .Git1 a:hover {
-    color: red ;  
+    color: blue ;  
     background: yellow;
-    transform: scale(1.1, 1.1);
+    transform: scale(1.5);
 }
 
 
