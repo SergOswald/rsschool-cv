@@ -6,6 +6,8 @@ Serg Kobrusev
 
 + Email: skobrusev446@gmail.com
 
++ Discord: Serg(@SergOswald)
+
 + Adress: Republic Belarus, Menskaya pr., Barysau
 
 + Website: [http:/bka.ucoz.ru](http:/bka.ucoz.ru) & [http:/22pp.ucoz.net](http:/22pp.ucoz.net)
