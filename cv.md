@@ -14,17 +14,15 @@ Serg Kobrusev
 
 Hello ! I`m Serg Kobrusev.
 -------------------------
-Chartered Mechanical Engineer, Bachelor of Engineering Science with over 20 years experience, specializing in special vehicle design.
+Chartered Mechanical Engineer, Bachelor of Engineering Science with over 25 years experience, specializing in special vehicle design.
 
-In addition to designing cars using tools such as Autocad, Solidworks, UG, Creo, Adams, Patran, I took part in the development of programs in the Delphi language for solving applied engineering problems at the Minsk Automobile Plant.
+In addition to designing cars using tools such as Autocad, Solidworks, UG, Creo, Adams, Patran, Ansys I took part in the development of programs in the Delphi language for solving applied engineering problems at the Minsk Automobile Plant and Yarovit Automobile Plant.
 
-Now I have decided to change my profession and join the entire IT community. In the future, I want to connect my life with the development of web applications.
+Now I have decided to change my profession and join the entire IT community. In the future, I want to connect my life with the development of web applications and web sites.
 
 **My Skills**
 -------------
-
-* Now I am learing HTML, CSS, JavaScript and English on my own.
-
+* Now I am learing HTML, CSS, JavaScript, React, Node js, npm, Jencins and English on my own.
 * My level of knowledge in JavaScript at the moment according to the training platform [www.codewars.com](www.codewars.com) (SergOswald): [My JavaScript Skilles](https://www.codewars.com/users/SergOswald/stats).
 
 **Code example**
