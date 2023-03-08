@@ -6,7 +6,7 @@ Serg Kobrusev
 
 + Email: skobrusev446@gmail.com
 
-+ Adress: Belarus, Barysau
++ Adress: Republic Belarus, Menskaya pr., Barysau
 
 + Website: [http:/bka.ucoz.ru](http:/bka.ucoz.ru) & [http:/22pp.ucoz.net](http:/22pp.ucoz.net)
           
@@ -16,7 +16,7 @@ Hello ! I`m Serg Kobrusev.
 -------------------------
 Chartered Mechanical Engineer, Bachelor of Engineering Science with over 25 years experience, specializing in special vehicle design.
 
-In addition to designing cars using tools such as Autocad, Solidworks, UG, Creo, Adams, Patran, Ansys I took part in the development of programs in the Delphi language for solving applied engineering problems at the Minsk Automobile Plant and Yarovit Automobile Plant.
+In addition to designing cars using tools such as Autocad, Solidworks, UG, Creo, Adams, Patran, Ansys, NanoCad, Bazis mebelshik I took part in the development of programs in the Delphi language for solving applied engineering problems at the Minsk Automobile Plant and Yarovit Automobile Plant.
 
 Now I have decided to change my profession and join the entire IT community. In the future, I want to connect my life with the development of web applications and web sites.
 
@@ -55,8 +55,6 @@ I took part in the development of programs in the JavaScript language for solvin
 * In 2022 I graduated from the Stage 0 and Stage 1 of RSS Fronе-and Сourse.
 
 * In the fall of 2022 I took a React course on my own.
-
-
 
 **English**
 -------------
